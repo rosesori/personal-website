@@ -1,2 +1,10 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<style>
+
+</style>
+
+<main>
+    <h1>Rose Soriano</h1>
+    <p>
+        <a href="https://github.com/rosesori">github.com/rosesori</a>
+    </p>
+</main>
